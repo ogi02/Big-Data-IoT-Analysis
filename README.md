@@ -1,7 +1,7 @@
 # Big Data Analysis: Smart Home IoT Energy Consumption
 
 **Course:** Big Data in IoT  
-**Author:** Big Data Analysis Project  
+**Author:** Ognian Baruh  
 **Dataset:** UCI Household Electric Power Consumption  
 **Analysis Type:** Time-Series Analysis & Exploratory Data Analysis
 
